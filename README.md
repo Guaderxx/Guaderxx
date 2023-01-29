@@ -19,13 +19,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-140-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 32 Contributions in the Year 2023
+> 🏆 33 Contributions in the Year 2023
  > 
 > 📦 241.3 kB Used in GitHub's Storage 
  > 
@@ -35,6 +35,27 @@
  > 
 > 🔑 14 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+YAML                     19 mins             ██████████░░░░░░░░░░░░░░░   41.5% 
+Markdown                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.68% 
+Lua                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
+Vim Script               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
+Go                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.09%
+
+🔥 Editors: 
+Neovim                   44 mins             ███████████████████████░░   92.82% 
+GoLand                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.18%
+
+💻 Operating System: 
+Linux                    47 mins             █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -52,5 +73,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 18:37:06 UTC
+ Last Updated on 29/01/2023 18:36:35 UTC
 <!--END_SECTION:waka-->
