@@ -19,9 +19,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,5 +70,5 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2023 09:42:13 UTC
+ Last Updated on 07/03/2023 18:39:55 UTC
 <!--END_SECTION:waka-->
