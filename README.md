@@ -19,15 +19,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 307.5 kB Used in GitHub's Storage 
+> 📦 307.6 kB Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2023
+> 🏆 122 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -73,5 +73,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2023 18:37:25 UTC
+ Last Updated on 02/09/2023 18:37:20 UTC
 <!--END_SECTION:waka-->
