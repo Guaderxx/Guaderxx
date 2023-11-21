@@ -27,7 +27,7 @@
 
 > 📦 318.8 kB Used in GitHub's Storage 
  > 
-> 🏆 212 Contributions in the Year 2023
+> 🏆 214 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -41,8 +41,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 49 mins       █████████████████████░░░░   82.46 % 
-Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Markdown                 4 hrs 49 mins       █████████████████████░░░░   82.47 % 
+Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 Go                       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
@@ -70,5 +70,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2023 18:36:42 UTC
+ Last Updated on 21/11/2023 18:39:25 UTC
 <!--END_SECTION:waka-->
