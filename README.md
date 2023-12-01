@@ -67,5 +67,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2023 18:38:24 UTC
+ Last Updated on 01/12/2023 18:38:15 UTC
 <!--END_SECTION:waka-->
