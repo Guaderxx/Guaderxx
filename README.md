@@ -47,7 +47,6 @@ SQL                      3 mins              ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  18 hrs 47 mins      █████████████████████████   100.00 % 
-Emacs                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Linux                    18 hrs 47 mins      █████████████████████████   100.00 % 
@@ -70,5 +69,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 18:35:47 UTC
+ Last Updated on 03/05/2024 18:35:57 UTC
 <!--END_SECTION:waka-->
