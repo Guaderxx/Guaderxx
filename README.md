@@ -25,7 +25,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 324.6 kB Used in GitHub's Storage 
+> 📦 324.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 51 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -67,5 +69,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2024 18:37:09 UTC
+ Last Updated on 17/06/2024 18:37:26 UTC
 <!--END_SECTION:waka-->
