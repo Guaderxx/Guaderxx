@@ -19,19 +19,19 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 324.5 kB Used in GitHub's Storage 
+> 📦 324.6 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2024
+> 🏆 52 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
@@ -41,14 +41,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               3 hrs 44 mins       █████████████████████████   99.04 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+JavaScript               3 hrs 52 mins       ████████████████████░░░░░   79.75 % 
+Go                       53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -68,5 +70,5 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 18:37:37 UTC
+ Last Updated on 01/07/2024 18:38:11 UTC
 <!--END_SECTION:waka-->
