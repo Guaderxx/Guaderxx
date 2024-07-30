@@ -27,8 +27,6 @@
 
 > 📦 323.6 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -49,7 +47,7 @@ TOML                     28 mins             █░░░░░░░░░░�
 
 🔥 Editors: 
 RustRover                12 hrs 40 mins      ████████████████████████░   97.69 % 
-VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
 Windows                  12 hrs 58 mins      █████████████████████████   100.00 % 
@@ -72,5 +70,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2024 18:38:43 UTC
+ Last Updated on 30/07/2024 18:38:46 UTC
 <!--END_SECTION:waka-->
