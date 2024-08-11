@@ -19,7 +19,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,13 +39,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 1 min         █████████████████████████   100.00 % 
+Markdown                 4 hrs 5 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -65,5 +65,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2024 18:37:12 UTC
+ Last Updated on 11/08/2024 18:39:43 UTC
 <!--END_SECTION:waka-->
