@@ -19,13 +19,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 323.9 kB Used in GitHub's Storage 
+> 📦 324.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -39,15 +39,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 48 mins       ████████████████████████░   96.09 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 4 hrs 52 mins       ████████████████░░░░░░░░░   63.44 % 
+Dockerfile               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Docker                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Nginx configuration file 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  5 hrs               █████████████████████████   100.00 % 
+VS Code                  5 hrs               ████████████████░░░░░░░░░   65.22 % 
+RustRover                2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.78 % 
 
 💻 Operating System: 
-Windows                  5 hrs               █████████████████████████   100.00 % 
+Windows                  7 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -67,5 +70,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 18:39:28 UTC
+ Last Updated on 17/08/2024 18:37:42 UTC
 <!--END_SECTION:waka-->
