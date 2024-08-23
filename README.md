@@ -27,8 +27,6 @@
 
 > 📦 324.3 kB Used in GitHub's Storage 
  > 
-> 🏆 60 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -72,5 +70,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 18:39:50 UTC
+ Last Updated on 23/08/2024 18:39:22 UTC
 <!--END_SECTION:waka-->
