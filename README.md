@@ -39,16 +39,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     53 mins             ████████████████████░░░░░   80.61 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-C                        5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RustRover                1 hr                ███████████████████████░░   91.64 % 
-VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -68,5 +65,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 18:42:39 UTC
+ Last Updated on 09/11/2024 18:39:47 UTC
 <!--END_SECTION:waka-->
