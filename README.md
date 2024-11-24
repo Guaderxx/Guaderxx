@@ -19,15 +19,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 326.4 kB Used in GitHub's Storage 
- > 
-> 🏆 118 Contributions in the Year 2024
+> 📦 326.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -41,13 +39,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     1 min               ███████████████░░░░░░░░░░   58.73 % 
+Markdown                 1 min               █████████░░░░░░░░░░░░░░░░   37.73 % 
+C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+RustRover                2 mins              ████████████████████████░   96.46 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -67,5 +68,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2024 18:41:55 UTC
+ Last Updated on 24/11/2024 18:41:59 UTC
 <!--END_SECTION:waka-->
