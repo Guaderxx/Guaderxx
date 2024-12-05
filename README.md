@@ -19,15 +19,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-729%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 326.4 kB Used in GitHub's Storage 
- > 
-> 🏆 118 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -41,15 +39,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 18 mins             ██████████████████████░░░   86.60 % 
-TOML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Markdown                 1 hr 51 mins        ██████████████████████░░░   86.35 % 
+TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Go                       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-RustRover                21 mins             █████████████████████████   100.00 % 
+RustRover                2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -69,5 +69,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2024 18:47:39 UTC
+ Last Updated on 05/12/2024 18:45:41 UTC
 <!--END_SECTION:waka-->
