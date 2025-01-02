@@ -27,6 +27,8 @@
 
 > 📦 326.6 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -39,17 +41,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 mins             ██████████░░░░░░░░░░░░░░░   40.21 % 
-Go                       16 mins             ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-INI                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Smalltalk                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -69,5 +67,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 18:42:07 UTC
+ Last Updated on 02/01/2025 18:42:50 UTC
 <!--END_SECTION:waka-->
