@@ -19,7 +19,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,10 +39,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     3 hrs 48 mins       ███████████████░░░░░░░░░░   60.84 % 
+Rust                     3 hrs 48 mins       ███████████████░░░░░░░░░░   60.83 % 
 JSON                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 JavaScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 Go                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🔥 Editors: 
@@ -70,5 +70,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2025 18:42:20 UTC
+ Last Updated on 18/02/2025 18:44:02 UTC
 <!--END_SECTION:waka-->
