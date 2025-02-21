@@ -25,7 +25,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 328.6 kB Used in GitHub's Storage 
+> 📦 328.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -69,5 +71,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 18:43:38 UTC
+ Last Updated on 21/02/2025 18:43:15 UTC
 <!--END_SECTION:waka-->
