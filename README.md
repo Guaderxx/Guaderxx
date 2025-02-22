@@ -19,15 +19,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-791%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 328.9 kB Used in GitHub's Storage 
+> 📦 329.0 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -41,17 +41,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     4 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.86 % 
-JavaScript               2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-CSS                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Rust                     3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
+JavaScript               2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+CSS                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-RustRover                8 hrs 31 mins       █████████████████████████   100.00 % 
+RustRover                8 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -71,5 +71,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2025 18:43:15 UTC
+ Last Updated on 22/02/2025 18:40:20 UTC
 <!--END_SECTION:waka-->
