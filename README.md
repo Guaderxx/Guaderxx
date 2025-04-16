@@ -19,7 +19,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,7 +29,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
  > 
@@ -39,15 +39,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       7 hrs 23 mins       █████████████████████████   98.56 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Go                       4 hrs 56 mins       █████████████████████░░░░   82.99 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -67,5 +69,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 18:45:42 UTC
+ Last Updated on 16/04/2025 18:47:21 UTC
 <!--END_SECTION:waka-->
