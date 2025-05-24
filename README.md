@@ -70,5 +70,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2025 18:47:52 UTC
+ Last Updated on 24/05/2025 18:44:53 UTC
 <!--END_SECTION:waka-->
