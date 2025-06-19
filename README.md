@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -29,7 +29,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
@@ -51,11 +51,11 @@ Windows                  17 mins             ███████████�
 **I Mostly Code in Go** 
 
 ```text
-Go                       15 repos            ██████████░░░░░░░░░░░░░░░   40.54 % 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-ANTLR                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Go                       15 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+ANTLR                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -65,5 +65,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2025 18:49:43 UTC
+ Last Updated on 19/06/2025 18:47:56 UTC
 <!--END_SECTION:waka-->
