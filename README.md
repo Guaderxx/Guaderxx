@@ -19,9 +19,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -39,13 +39,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       17 mins             █████████████████████████   100.00 % 
+Markdown                 19 mins             ██████████████████████░░░   88.07 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -65,5 +69,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2025 18:47:56 UTC
+ Last Updated on 20/06/2025 18:48:50 UTC
 <!--END_SECTION:waka-->
