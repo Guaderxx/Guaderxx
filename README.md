@@ -19,9 +19,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -29,7 +29,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
@@ -39,17 +39,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 19 mins             ██████████████████████░░░   88.07 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Markdown                 19 mins             █████████████████░░░░░░░░   66.04 % 
+TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -69,5 +69,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 18:48:50 UTC
+ Last Updated on 21/06/2025 18:45:07 UTC
 <!--END_SECTION:waka-->
