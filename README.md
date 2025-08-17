@@ -19,7 +19,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@
 
 > 📦 332.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 33 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -41,13 +41,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 7 mins        ███████████████████████░░   92.40 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -67,5 +71,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 18:46:47 UTC
+ Last Updated on 17/08/2025 18:48:28 UTC
 <!--END_SECTION:waka-->
