@@ -27,6 +27,8 @@
 
 > 📦 332.7 kB Used in GitHub's Storage 
  > 
+> 🏆 42 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -39,17 +41,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     34 mins             ███████████████░░░░░░░░░░   60.46 % 
-Markdown                 11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Shell Script             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-RustRover                56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -69,5 +67,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2025 18:46:03 UTC
+ Last Updated on 11/09/2025 18:43:50 UTC
 <!--END_SECTION:waka-->
