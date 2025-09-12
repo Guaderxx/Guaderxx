@@ -27,8 +27,6 @@
 
 > 📦 332.7 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -67,5 +65,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 18:43:50 UTC
+ Last Updated on 12/09/2025 18:42:37 UTC
 <!--END_SECTION:waka-->
