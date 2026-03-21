@@ -41,16 +41,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       11 mins             ███████████████████████░░   90.94 % 
-SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-shell script             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -70,5 +67,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2026 19:10:28 UTC
+ Last Updated on 21/03/2026 18:59:04 UTC
 <!--END_SECTION:waka-->
