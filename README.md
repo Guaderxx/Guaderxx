@@ -41,13 +41,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+textmate                 0 secs              ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Text                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Shell Script             0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+C/C                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+CMake                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -67,5 +71,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 20:33:07 UTC
+ Last Updated on 21/05/2026 20:17:46 UTC
 <!--END_SECTION:waka-->
