@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 417.7 kB Used in GitHub's Storage 
+> 📦 417.6 kB Used in GitHub's Storage 
  > 
 > 🏆 58 Contributions in the Year 2026
  > 
@@ -33,21 +33,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -65,5 +50,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:54:06 UTC
+ Last Updated on 24/07/2026 19:53:32 UTC
 <!--END_SECTION:waka-->
