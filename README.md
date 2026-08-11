@@ -33,7 +33,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 20 Private Repositories 
  > 
@@ -75,5 +75,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:29:03 UTC
+ Last Updated on 11/08/2026 19:32:59 UTC
 <!--END_SECTION:waka-->
