@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 417.9 kB Used in GitHub's Storage 
+> 📦 417.8 kB Used in GitHub's Storage 
  > 
 > 🏆 59 Contributions in the Year 2026
  > 
@@ -61,11 +61,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       17 repos            ████████████░░░░░░░░░░░░░   48.57 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-ANTLR                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Go                       17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+ANTLR                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -75,5 +75,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:33:47 UTC
+ Last Updated on 06/09/2026 20:37:05 UTC
 <!--END_SECTION:waka-->
