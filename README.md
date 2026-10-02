@@ -43,36 +43,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 19 mins             ████████████████████░░░░░   80.78 % 
-YAML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (36.63%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 47,271 Input Tokens, 22,386 Output Tokens
-
-💵 $4.13 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 10 AI Prompts
-
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 5,476 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -92,5 +75,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:49:27 UTC
+ Last Updated on 02/10/2026 22:25:41 UTC
 <!--END_SECTION:waka-->
