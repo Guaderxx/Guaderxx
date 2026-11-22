@@ -19,11 +19,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2049%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2038%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 418.7 kB Used in GitHub's Storage 
+> 📦 418.8 kB Used in GitHub's Storage 
  > 
 > 🏆 63 Contributions in the Year 2026
  > 
@@ -39,13 +43,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       5 mins              ██████████░░░░░░░░░░░░░░░   39.52 % 
+Markdown                 4 mins              ████████░░░░░░░░░░░░░░░░░   32.46 % 
+JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+SQL                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,5 +79,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 02:47:50 UTC
+ Last Updated on 22/11/2026 23:42:54 UTC
 <!--END_SECTION:waka-->
