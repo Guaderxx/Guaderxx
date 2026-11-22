@@ -19,17 +19,13 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2047%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2038%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 418.7 kB Used in GitHub's Storage 
  > 
-> 🏆 62 Contributions in the Year 2026
+> 🏆 63 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -75,5 +71,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 21:46:42 UTC
+ Last Updated on 22/11/2026 02:47:50 UTC
 <!--END_SECTION:waka-->
