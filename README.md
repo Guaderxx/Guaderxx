@@ -43,17 +43,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       5 mins              ██████████░░░░░░░░░░░░░░░   39.52 % 
-Markdown                 4 mins              ████████░░░░░░░░░░░░░░░░░   32.46 % 
-JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-SQL                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Markdown                 1 hr 41 mins        ███████████████████████░░   91.10 % 
+Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Zed                      14 mins             █████████████████████████   100.00 % 
+Zed                      1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ ANTLR                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Guaderxx/Guaderxx/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2026 04:00:48 UTC
+ Last Updated on 25/11/2026 02:41:24 UTC
 <!--END_SECTION:waka-->
